@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: #009dc4;
+}
+
+.img{
+  position: absolute;
+  left: 0; 
+}
+
+.nav{
+  align-self:center;
+  display: flex;
+}
+
+.link{
+    text-decoration: none;
+    margin: 10px;
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+}
+
+.link:hover{
+    color: black;
+}
